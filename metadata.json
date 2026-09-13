@@ -1,0 +1,7 @@
+{
+  "name": "AI Invoice Processing & Accounting Reconciliation",
+  "description": "Autonomous AI system for invoice OCR extraction, 3-way PO matching, bank feed reconciliation, and automated double-entry GL posting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
